@@ -1,0 +1,144 @@
+
+.container-fluid{
+    
+    padding: 3% 15%
+}
+#first{
+  background-color: 	#f0ad4e;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.2rem;
+    line-height:1.5;
+    font-weight: 500;
+    color: white;
+    margin-top: 10%;
+}
+@media (max-width: 768px) {
+  .btn {
+    padding:10px 10px;
+    font-size:96%;
+    line-height: 1;
+  }
+  h1{
+    font-size: 2.5rem;
+  }
+  .nav-link{
+    font-size: 1.5rem;
+  }
+  .testimonia h2{
+    font-size: 2rem;
+    line-height: 1;
+  }
+  .testimonia img{
+    width:50%
+  }
+  
+}
+
+.img-f {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+  .btn{
+    font-family: 'Roboto', sans-serif;
+  }
+  .navbar{
+font-family: 'Montserrat';
+font-weight: 500;
+padding-right: 0;
+padding-left: 0;
+  }
+  .navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .downbtn{
+      margin:5% 3% 5% 0%;
+  }
+  .nav-item{
+      padding-left: 12px;
+      padding-right: 12px;
+  }
+  .feature{
+    padding:5%;
+  }
+  p{
+    color: #8f8f8f;
+  }
+  .nav-link:hover{
+  
+     opacity:.75;
+  }
+  .icon{
+    color:#fcce62;
+    margin-bottom: 1rem;
+  }
+  .icon:hover{
+    color:#f0ad4e;
+  }
+  #second{
+    padding: 7% 15%;
+    text-align: center;
+  }
+  h3{
+    font-family: 'Montserrat';
+    font-size: 1.2rem;
+    font-weight:900;
+  }
+
+  #third{
+   
+    padding-bottom: 0;
+    text-align: center;
+    background-color:#f0ad4e;
+  }
+  .carousel-inner{
+
+  }
+  .carousel-item{
+  padding: 7%  15%;
+
+  }
+  h2{
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    font-weight:900;
+    color: white;
+    line-height: 1.5;
+  }
+  .testemonia{
+  padding:5%;
+  }
+  .img-t{
+    width:30%;
+    margin:5%;
+    margin-bottom: 2%;
+    border-radius: 100%;
+      }
+      .ita{
+        display: block;
+        font-size: large;
+        opacity:50%;
+      }
+      .card h2{
+        color: black;
+        font-family:'Roboto', sans-serif; ;
+      }
+      #pricing h2{
+        color: black;
+        font-family:'Roboto', sans-serif; ;
+        margin: 0;
+      }
+    
+      .pricing-co{
+        padding:3% 2%;
+      }
+     #pricing{
+       padding:100px;
+       color: black;
+       text-align: center;
+     }
+      
