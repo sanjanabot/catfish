@@ -131,14 +131,16 @@ padding-left: 0;
         color: black;
         font-family:'Roboto', sans-serif; ;
         margin: 0;
+    
       }
     
       .pricing-co{
         padding:3% 2%;
       }
      #pricing{
-       padding:100px;
+       padding:7%;
        color: black;
        text-align: center;
+       padding-top:4%;
      }
       
